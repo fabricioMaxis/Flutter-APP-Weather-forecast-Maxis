@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 ## Displays
 
 ![tela1](https://user-images.githubusercontent.com/56961530/95251473-ff7fa400-07f1-11eb-8f7d-27564dc428a3.png)
+![tela2](https://user-images.githubusercontent.com/56961530/95251614-2dfd7f00-07f2-11eb-937e-fa30046d1ed7.png)
