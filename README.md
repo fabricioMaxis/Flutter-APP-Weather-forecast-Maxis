@@ -1,6 +1,6 @@
-# curso_api
+# APP Weather forecast Maxis
 
-A new Flutter project.
+Weather forecast app made with knowledge acquired in a course taught by Fluterando.
 
 ## Getting Started
 
